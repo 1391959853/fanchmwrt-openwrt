@@ -21,3 +21,4 @@
 #echo 'src-git gfupdate2 https://git.openwrt.org/feed/routing.git^3eb59e9471858c83891979793f1dd29cca156919' >>feeds.conf.default
 #echo 'src-git gfupdate3 https://git.openwrt.org/feed/telephony.git^2a4541d46199ac96fac214d02c908402831c4dc6' >>feeds.conf.default
 #echo 'src-git fanchmwrt https://github.com/fanchmwrt/fanchmwrt-packages.git' >>feeds.conf.default
+echo 'src-git qmodem https://github.com/FUjr/QModem.git;main' >> feeds.conf.default
